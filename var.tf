@@ -66,7 +66,7 @@ default = "gp3"
 variable "data_disk" {
 description = "EC2 DATA Disk in terms of numbers ex:20gb --> 20"
 type = number
-default = "100"
+default = "130"
 }
 
 #variable for data disk type
